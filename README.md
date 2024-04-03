@@ -9,12 +9,12 @@
   </a>
 </div>
 
-<h3 align="left">👩‍💻 About me:</h3>
+<h3 align="center">👩‍💻 About me:</h3>
 
-<p align="left">I'm a beginner Python Web Developer. At the moment I'm studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science. </p>
+<p align="center">I'm a beginner Python Web Developer. At the moment I'm studying at the Belarusian State University at the Faculty of Applied Mathematics and Computer Science. </p>
 
-<h3 align="left">🛠 Technologies:</h3>
-<div align="left">
+<h3 align="center">🛠 Technologies:</h3>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" style="padding-right: 12"/>
     <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"/>
     <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"/>
@@ -29,8 +29,8 @@
     <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"/>
 </div>
 
-<h3 align="left">🔥 My stats:</h3>
-<div align="left">
+<h3 align="center">🔥 My stats:</h3>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vbobovoz&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vbobovoz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
