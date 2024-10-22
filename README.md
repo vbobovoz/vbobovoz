@@ -1,16 +1,7 @@
-<h1 align="center">Hey! My name is Vladislav!</h1>
+# 💫 About Me:
+🎓 I'm currently a student at the Belarusian State University, studying at the Faculty of Applied Mathematics and Computer Science.<br> 🚀 I'm a hardworking, communicative, and responsible individual who is always eager to learn and grow.<br>🌟 I quickly adapt to new challenges and am constantly seeking new knowledge, experiences, and opportunities to advance professionally.<br>
 
-<h3 align="center">👩‍💻 About me:</h3>
-
-<p align="center">I'm a beginner backend developer based in Minsk, currently studying at the Faculty of Applied Mathematics and Informatics at Belarusian State University. In my free time, I enjoy exploring new places, traveling, and trying new experiences. I'm passionate about learning and constantly seek opportunities to grow both personally and professionally.</p>
-
-<h3 align="center">📞 Contacts:</h3>
-
-<div align="center">
-  <a href="https://t.me/whatislovexz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=008000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vladislav-bobovoz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=008000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-  </a>
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1C352D&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/vladislav-bobovoz) 
+[![Telegram](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=1C352D&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/whatislovexz)
+[![LeetCode](https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=1C352D&logoColor=white&labelColor=&style=for-the-badge)](https://leetcode.com/u/vbobovoz/)
